@@ -1,0 +1,11 @@
+npm init -y
+npm i express chess.js ejs socket.io
+file1
+const socket = io();
+uniquesocket.on
+uniquesocket.emit();
+Forsyth-Edwards Notation (FEN) in chess
+chess.fen()
+chess js cdn
+
+
